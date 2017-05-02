@@ -1,0 +1,7 @@
+C:\Users\karlriss\Source\Repos\vsts-testcase-paramaccess\ParamAccessHelper\bin\Debug\ParamAccessHelper.dll
+C:\Users\karlriss\Source\Repos\vsts-testcase-paramaccess\ParamAccessHelper\bin\Debug\ParamAccessHelper.pdb
+C:\Users\karlriss\Source\Repos\vsts-testcase-paramaccess\ParamAccessHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\karlriss\Source\Repos\vsts-testcase-paramaccess\ParamAccessHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\karlriss\Source\Repos\vsts-testcase-paramaccess\ParamAccessHelper\obj\Debug\ParamAccessHelper.csprojResolveAssemblyReference.cache
+C:\Users\karlriss\Source\Repos\vsts-testcase-paramaccess\ParamAccessHelper\obj\Debug\ParamAccessHelper.dll
+C:\Users\karlriss\Source\Repos\vsts-testcase-paramaccess\ParamAccessHelper\obj\Debug\ParamAccessHelper.pdb

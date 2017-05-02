@@ -46,7 +46,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <ProjectReference Include="..\ParamAccessHelper\ParamAccessHelper.csproj">
+      <Project>{d92f5509-f922-489e-ae9c-8015952e65b7}</Project>
+      <Name>ParamAccessHelper</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
